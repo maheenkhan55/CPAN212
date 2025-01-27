@@ -18,7 +18,7 @@ holidays.forEach(holiday =>{
 // lodash - do array operations
 // lodash is declared, pick random sample
 // displays diff day each time you run 
-// Question 3 
+// Question 3:
 console.log(_.sample(holidays))
 // Question 4
 console.log(_.findIndex(holidays, {name: "Christmas"}))
